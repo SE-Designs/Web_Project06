@@ -1,0 +1,19 @@
+{
+  "name": "aidar_end",
+  "version": "1.0.0",
+  "description": "Endterm Project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016https://github.com/SE-Designs/Web_Project06"
+  },
+  "keywords": [
+    "node",
+    "nodejs"
+  ],
+  "author": "Aidar Askarov",
+  "license": "ISC"
+}
